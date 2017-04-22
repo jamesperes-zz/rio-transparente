@@ -1,3 +1,7 @@
+"""Feito para salvar as despesas por ano a partir do ano de 2008 em um csv"""
+
+
+
 import urllib.request
 from datetime import datetime
 ano = 2007
