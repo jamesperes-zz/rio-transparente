@@ -6,7 +6,6 @@ para análise de gastos públicos
 
 Python 3.x
 
-
 O arquivo 'salva.py' contem o metodo para salvar as despesas por ano a partir do ano de 2008 em um arquivo csv.
 o metodo usa o url 'http://riotransparente.rio.rj.gov.br/arquivos/Open_Data_Desp_{year}.asp' e passa o ano como parametro.
 
